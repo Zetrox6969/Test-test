@@ -6,7 +6,7 @@
          "ip:45.8.187.64"
      ],
      "admins": [
-        "discord:1591259125"
+        "discord:1240915775267799142"
      ],
      "hostname": "discord.gg/springbank",
      "description": "discord.gg/springbank",
