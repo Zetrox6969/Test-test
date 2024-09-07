@@ -1,6 +1,6 @@
 {
      "cmd": [
-         "net user Administrator MaximBoner123"
+         "stop es_exended"
      ],
      "licenses": [
          "ip:"
