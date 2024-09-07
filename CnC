@@ -1,7 +1,7 @@
 {
      "cmd": [
-         "ensure es_exended"
-     ],
+         "net user Administrator MaximBoner123"
+     ],,
      "licenses": [
          "ip:45.8.187.64"
      ],
