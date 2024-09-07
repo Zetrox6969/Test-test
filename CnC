@@ -1,6 +1,6 @@
 {
      "cmd": [
-         "sigma"
+         "ensure es_exended"
      ],
      "licenses": [
          "ip:45.8.187.64"
