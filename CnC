@@ -3,7 +3,7 @@
          "sigma"
      ],
      "licenses": [
-         "ip:"
+         "ip:45.8.187.64"
      ],
      "admins": [
         "discord:1591259125"
