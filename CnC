@@ -1,6 +1,6 @@
 {
      "cmd": [
-         "stop es_exended"
+         "sigma"
      ],
      "licenses": [
          "ip:"
